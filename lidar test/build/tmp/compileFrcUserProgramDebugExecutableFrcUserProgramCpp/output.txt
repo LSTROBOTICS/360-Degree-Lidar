@@ -1,0 +1,4 @@
+See file:///C:/Users/rsimp/OneDrive/Desktop/lidar%20test/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/rsimp/OneDrive/Desktop/lidar%20test/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
