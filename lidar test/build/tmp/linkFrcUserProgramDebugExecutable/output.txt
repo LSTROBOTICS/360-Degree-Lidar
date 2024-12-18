@@ -1,4 +1,0 @@
-See file:///C:/Users/rsimp/OneDrive/Desktop/lidar%20test/build/tmp/linkFrcUserProgramDebugExecutable/output.txt for all output for linkFrcUserProgramDebugExecutable.
-linking frcUserProgram successful.
-
-Finished linkFrcUserProgramDebugExecutable, see full log file:///C:/Users/rsimp/OneDrive/Desktop/lidar%20test/build/tmp/linkFrcUserProgramDebugExecutable/output.txt.
